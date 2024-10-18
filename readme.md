@@ -1,8 +1,10 @@
 # Indeed Scraping & Job Apply Automation
 
-To run streamlit file 
+Please updatde config.ini file first then use this repo 
+
+For using input configuration file 
 ```bash
-streamlit run main_streamlit.py
+python main_config.py
 ```
 
 To run as a command line interface
@@ -10,7 +12,7 @@ To run as a command line interface
 python main_cli.py
 ```
 
-For using input configuration file 
+To run streamlit file 
 ```bash
-python main_config.py
+streamlit run main_streamlit.py
 ```
